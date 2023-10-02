@@ -1,5 +1,6 @@
-package medium;
+package algorithms.medium;
 
+import algorithms.medium.AddTwoNumbers;
 import org.junit.Test;
 
 public class AddTwoNumbersTest {

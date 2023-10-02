@@ -1,5 +1,6 @@
-package easy;
+package algorithms.easy;
 
+import algorithms.easy.TwoSum;
 import org.junit.Test;
 
 public class TwoSumTest {

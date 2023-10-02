@@ -1,4 +1,4 @@
-package medium;
+package algorithms.medium;
 
 public class AddTwoNumbers {
 

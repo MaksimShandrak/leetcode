@@ -1,4 +1,4 @@
-package easy;
+package algorithms.easy;
 
 public class TwoSum {
 
